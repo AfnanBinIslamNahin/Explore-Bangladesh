@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, NavLink, useNavigate, useLocation } from 'react-router-dom';
-import { Compass, Search, Menu, X, MapPin, ChevronRight } from 'lucide-react';
+import { Search, Menu, X, MapPin, ChevronRight } from 'lucide-react';
 
 export const Navbar: React.FC = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -64,14 +64,16 @@ export const Navbar: React.FC = () => {
               id="brand-logo-link"
               className="flex items-center space-x-3 group focus:outline-none"
             >
-              <div className="w-10 h-10 rounded-xl bg-emerald-600 flex items-center justify-center text-white shadow-md shadow-emerald-900/50 group-hover:bg-emerald-500 transition-colors">
-                <Compass className="w-6 h-6 text-white" />
-              </div>
+              <img
+                src="/images/explore-bangladesh-logo.png"
+                alt="Explore Bangladesh Logo"
+                className="w-9 h-9 sm:w-11 sm:h-11 object-contain rounded-lg shrink-0 transition-transform duration-200 group-hover:scale-105"
+              />
               <div className="flex flex-col">
-                <span className="text-xl font-bold tracking-tight text-white group-hover:text-emerald-300 transition-colors">
+                <span className="text-lg sm:text-xl font-bold tracking-tight text-white group-hover:text-emerald-300 transition-colors">
                   Explore Bangladesh
                 </span>
-                <span className="text-[11px] font-medium tracking-wider text-emerald-300/80 uppercase">
+                <span className="text-[10px] sm:text-[11px] font-medium tracking-wider text-emerald-300/80 uppercase">
                   Discover 64 Districts
                 </span>
               </div>
