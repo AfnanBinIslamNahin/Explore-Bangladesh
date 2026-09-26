@@ -45,10 +45,10 @@ My goal is to develop the website into a useful and accessible guide to Banglade
 
 ## Project Creator
 
-**Created by:** [Your name]  
-**Location:** [Your city, Bangladesh]  
-**Email:** [Your email address]  
-**GitHub:** [Your GitHub profile link]
+**Created by:** AFNAN BIN ISLAM NAHIN
+**Location:** Dhaka, Bangladesh
+**Email:** 22-49350-3@student.aiub.edu
+
 
 ## Feedback
 
