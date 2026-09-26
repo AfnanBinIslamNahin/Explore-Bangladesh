@@ -45,9 +45,9 @@ My goal is to develop the website into a useful and accessible guide to Banglade
 
 ## Project Creator
 
-**Created by:** [AFNAN BIN ISLAM NAHIN]
-**Location:** [Dhaka, Bangladesh]
-**Email:** [22-49350-3@student.aiub.edu]
+- **Created by:** AFNAN BIN ISLAM NAHIN
+- **Location:** Dhaka, Bangladesh
+- **Email:** 22-49350-3@student.aiub.edu
 
 
 ## Feedback
