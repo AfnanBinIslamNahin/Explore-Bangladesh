@@ -1,5 +1,4 @@
 import { TouristPlace } from '../types';
-import { PHOTO_COMING_SOON } from './placeholder';
 
 export const chattogramPlacesPart2: TouristPlace[] = [
   // ==================== KHAGRACHHARI DISTRICT ====================

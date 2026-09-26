@@ -1,5 +1,4 @@
 import { TouristPlace } from '../types';
-import { PHOTO_COMING_SOON } from './placeholder';
 
 export const dhakaPlacesPart1: TouristPlace[] = [
   // ==================== DHAKA DISTRICT ====================
@@ -528,8 +527,12 @@ export const dhakaPlacesPart1: TouristPlace[] = [
     category: 'Rivers & Waterfalls',
     categoryId: 'rivers-waterfalls',
     shortDescription: 'Scenic riverfront wetlands and sunset boat cruising routes stretching along the northern periphery of Greater Dhaka.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/turag-river-banks/cover.webp',
+    galleryImages: [
+      '/images/destinations/turag-river-banks/cover.webp',
+      '/images/destinations/turag-river-banks/gallery-1.webp',
+      '/images/destinations/turag-river-banks/gallery-2.webp',
+    ],
     location: 'Tongi-Ashulia river corridor, Gazipur',
     googleMapsUrl: 'https://maps.google.com/?q=Turag+River+Tongi+Gazipur+Bangladesh',
     about: {

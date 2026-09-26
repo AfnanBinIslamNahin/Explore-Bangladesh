@@ -1,5 +1,4 @@
 import { TouristPlace } from '../types';
-import { PHOTO_COMING_SOON } from './placeholder';
 
 export const chattogramPlacesPart1: TouristPlace[] = [
   // ==================== CHATTOGRAM DISTRICT ====================

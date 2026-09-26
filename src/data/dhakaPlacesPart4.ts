@@ -1,5 +1,4 @@
 import { TouristPlace } from '../types';
-import { PHOTO_COMING_SOON } from './placeholder';
 
 export const dhakaPlacesPart4: TouristPlace[] = [
   // ==================== MADARIPUR DISTRICT ====================
@@ -117,8 +116,10 @@ export const dhakaPlacesPart4: TouristPlace[] = [
     category: 'Historical Places',
     categoryId: 'historical-places',
     shortDescription: 'Colonial-era zamindar mansion featuring neoclassical pillars, historic masonry gateways, and rural gardens.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/sunamukhi-zamindar-bari/cover.webp',
+    galleryImages: [
+      '/images/destinations/sunamukhi-zamindar-bari/cover.webp',
+    ],
     location: 'Sunamukhi Village, Madaripur Sadar',
     googleMapsUrl: 'https://maps.google.com/?q=Sunamukhi+Madaripur',
     about: {
@@ -162,8 +163,12 @@ export const dhakaPlacesPart4: TouristPlace[] = [
     category: 'Rivers & Waterfalls',
     categoryId: 'rivers-waterfalls',
     shortDescription: 'Breezy riverbank promenade and bridge overlook along the historic Ariel Khan River, a principal branch of the Padma.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/ariel-khan-river-view/cover.webp',
+    galleryImages: [
+      '/images/destinations/ariel-khan-river-view/cover.webp',
+      '/images/destinations/ariel-khan-river-view/gallery-1.webp',
+      '/images/destinations/ariel-khan-river-view/gallery-2.webp',
+    ],
     location: 'Ariel Khan Riverside & Bridge, Madaripur Sadar',
     googleMapsUrl: 'https://maps.google.com/?q=Ariel+Khan+River+Madaripur+Bridge',
     about: {
@@ -210,8 +215,10 @@ export const dhakaPlacesPart4: TouristPlace[] = [
     category: 'Religious Places',
     categoryId: 'religious-places',
     shortDescription: 'Historic medieval brick mosque commemorating the ancient mint-town and administrative seat of Sultanate Fatehabad.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/fatehabad-mosque/cover.webp',
+    galleryImages: [
+      '/images/destinations/fatehabad-mosque/cover.webp',
+    ],
     location: 'Fatehabad Village, Naria Upazila, Shariatpur',
     googleMapsUrl: 'https://maps.google.com/?q=Fatehabad+Mosque+Naria+Shariatpur',
     about: {
@@ -256,8 +263,12 @@ export const dhakaPlacesPart4: TouristPlace[] = [
     category: 'Historical Places',
     categoryId: 'historical-places',
     shortDescription: 'Sky-piercing 19th-century brick spire math temple and colonial zamindar palace ruins in Rudrakar village.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/rudrakar-zamindar-bari/cover.webp',
+    galleryImages: [
+      '/images/destinations/rudrakar-zamindar-bari/cover.webp',
+      '/images/destinations/rudrakar-zamindar-bari/gallery-1.webp',
+      '/images/destinations/rudrakar-zamindar-bari/gallery-2.webp',
+    ],
     location: 'Rudrakar Union, Shariatpur Sadar (approx. 4 km southeast of Shariatpur town)',
     googleMapsUrl: 'https://maps.google.com/?q=Rudrakar+Math+Shariatpur',
     about: {
@@ -302,8 +313,12 @@ export const dhakaPlacesPart4: TouristPlace[] = [
     category: 'Rivers & Waterfalls',
     categoryId: 'rivers-waterfalls',
     shortDescription: 'Dramatic paved riverfront embankment along the mighty Padma River, renowned for boundless river views and sunset breezes.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/padma-river-bank-naria/cover.webp',
+    galleryImages: [
+      '/images/destinations/padma-river-bank-naria/cover.webp',
+      '/images/destinations/padma-river-bank-naria/gallery-1.webp',
+      '/images/destinations/padma-river-bank-naria/gallery-2.webp',
+    ],
     location: 'Naria Embankment & Joybangla Parjatan, Naria Upazila, Shariatpur',
     googleMapsUrl: 'https://maps.google.com/?q=Naria+Padma+Riverbank+Shariatpur',
     about: {
@@ -349,8 +364,10 @@ export const dhakaPlacesPart4: TouristPlace[] = [
     category: 'Historical Places',
     categoryId: 'historical-places',
     shortDescription: 'Peaceful riverine upazila featuring historical mosques, colonial-era zamindar ponds, and tranquil Meghna distributary waters.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/bhedarganj-heritage-sites/cover.webp',
+    galleryImages: [
+      '/images/destinations/bhedarganj-heritage-sites/cover.webp',
+    ],
     location: 'Bhedarganj Upazila, Shariatpur',
     googleMapsUrl: 'https://maps.google.com/?q=Bhedarganj+Shariatpur',
     about: {
@@ -600,8 +617,13 @@ export const dhakaPlacesPart4: TouristPlace[] = [
     category: 'Historical Places',
     categoryId: 'historical-places',
     shortDescription: 'Ancestral roots of the legendary Ray family of Bengal Renaissance (Upendrakishore, Sukumar Ray, Satyajit Ray) and revolutionary poet Sukanta.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/sukanta-bhattacharya-heritage/cover.webp',
+    galleryImages: [
+      '/images/destinations/sukanta-bhattacharya-heritage/cover.webp',
+      '/images/destinations/sukanta-bhattacharya-heritage/gallery-1.webp',
+      '/images/destinations/sukanta-bhattacharya-heritage/gallery-2.webp',
+      '/images/destinations/sukanta-bhattacharya-heritage/gallery-3.webp',
+    ],
     location: 'Masua Village, Katiadi Upazila, Kishoreganj',
     googleMapsUrl: 'https://maps.google.com/?q=Masua+Katiadi+Kishoreganj+Upendrakishore',
     about: {

@@ -1,13 +1,15 @@
 /**
- * Clean SVG placeholder containing "Photo Coming Soon"
- * Adheres strictly to the requirement:
- * "If an authentic photograph cannot be found, display a clean placeholder image containing: 'Photo Coming Soon'. Do not display an unrelated image."
+ * Clean SVG fallback for Explore Bangladesh destinations
+ * Does NOT display "Photo Coming Soon" - provides a clean, elegant branded scenery fallback.
  */
-export const PHOTO_COMING_SOON = `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><rect width="800" height="500" fill="%23064e3b"/><g fill="%23a7f3d0" opacity="0.85"><path d="M360 190h80l12 18h24c8.8 0 16 7.2 16 16v64c0 8.8-7.2 16-16 16H324c-8.8 0-16-7.2-16-16v-64c0-8.8 7.2-16 16-16h24l12-18z" fill="%23047857"/><circle cx="400" cy="242" r="24" fill="%23022c22"/><circle cx="400" cy="242" r="16" fill="%2334d399"/><circle cx="452" cy="214" r="5" fill="%23a7f3d0"/></g><text x="400" y="340" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="24" font-weight="700" fill="%23f0fdf4" text-anchor="middle" letter-spacing="0.5">Photo Coming Soon</text><text x="400" y="372" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="14" font-weight="500" fill="%236ee7b7" text-anchor="middle">Authentic destination photograph being updated</text></svg>`;
+export const DEFAULT_FALLBACK_IMAGE = `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="%23022c22"/><stop offset="50%" stop-color="%23064e3b"/><stop offset="100%" stop-color="%23022c22"/></linearGradient></defs><rect width="800" height="500" fill="url(%23g)"/><path d="M120 380 L280 230 L400 330 L540 200 L720 380 Z" fill="%23047857" opacity="0.6"/><path d="M220 380 L360 260 L480 350 L620 220 L760 380 Z" fill="%23059669" opacity="0.8"/><circle cx="580" cy="170" r="36" fill="%2334d399" opacity="0.85"/><text x="400" y="420" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="18" font-weight="700" fill="%23f0fdf4" text-anchor="middle" letter-spacing="2">EXPLORE BANGLADESH</text></svg>`;
+
+export const PHOTO_COMING_SOON = DEFAULT_FALLBACK_IMAGE;
 
 export function handleImageFallback(e: React.SyntheticEvent<HTMLImageElement>) {
   const target = e.currentTarget;
-  if (target.src !== PHOTO_COMING_SOON) {
-    target.src = PHOTO_COMING_SOON;
+  if (target.src !== DEFAULT_FALLBACK_IMAGE) {
+    target.src = DEFAULT_FALLBACK_IMAGE;
   }
 }
+

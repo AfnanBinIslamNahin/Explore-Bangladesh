@@ -1,5 +1,4 @@
 import { TouristPlace } from '../types';
-import { PHOTO_COMING_SOON } from './placeholder';
 
 export const dhakaPlacesPart3: TouristPlace[] = [
   // ==================== FARIDPUR DISTRICT ====================
@@ -117,8 +116,11 @@ export const dhakaPlacesPart3: TouristPlace[] = [
     category: 'Religious Places',
     categoryId: 'religious-places',
     shortDescription: 'Sacred Sufi sanctuary of Hazrat Shah Sheikh Fariduddin, the 13th-century saint who gave Faridpur district its name.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/shah-farid-dargah/cover.webp',
+    galleryImages: [
+      '/images/destinations/shah-farid-dargah/cover.webp',
+      '/images/destinations/shah-farid-dargah/gallery-1.webp',
+    ],
     location: 'Gerda / Dargahbari, Faridpur Sadar',
     googleMapsUrl: 'https://maps.google.com/?q=Shah+Farid+Dargah+Faridpur',
     about: {
@@ -213,8 +215,10 @@ export const dhakaPlacesPart3: TouristPlace[] = [
     category: 'Religious Places',
     categoryId: 'religious-places',
     shortDescription: 'Historic brick mosque dating to the medieval era, noted for its thick masonry walls and serene rural courtyard.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/gerda-mosque/cover.webp',
+    galleryImages: [
+      '/images/destinations/gerda-mosque/cover.webp',
+    ],
     location: 'Gerda Village, Faridpur Sadar',
     googleMapsUrl: 'https://maps.google.com/?q=Gerda+Mosque+Faridpur',
     about: {
@@ -311,8 +315,12 @@ export const dhakaPlacesPart3: TouristPlace[] = [
     category: 'Rivers & Waterfalls',
     categoryId: 'rivers-waterfalls',
     shortDescription: 'Historic river gateway on the mighty Padma River, immortalized in colonial railway lore and famous for sweet Chumchum and fresh Hilsa.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/goalando-ghat-riverfront/cover.webp',
+    galleryImages: [
+      '/images/destinations/goalando-ghat-riverfront/cover.webp',
+      '/images/destinations/goalando-ghat-riverfront/gallery-1.webp',
+      '/images/destinations/goalando-ghat-riverfront/gallery-2.webp',
+    ],
     location: 'Daulatdia & Goalando Ghat, Goalando Upazila, Rajbari (south bank of the Padma River)',
     googleMapsUrl: 'https://maps.google.com/?q=Goalando+Ghat+Daulatdia+Rajbari',
     about: {
@@ -358,8 +366,12 @@ export const dhakaPlacesPart3: TouristPlace[] = [
     category: 'Rivers & Waterfalls',
     categoryId: 'rivers-waterfalls',
     shortDescription: 'Charming paved riverfront promenade, sunset view point, and country boat cruise station on the edge of Rajbari town.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/godar-bazar-riverside/cover.webp',
+    galleryImages: [
+      '/images/destinations/godar-bazar-riverside/cover.webp',
+      '/images/destinations/godar-bazar-riverside/gallery-1.webp',
+      '/images/destinations/godar-bazar-riverside/gallery-2.webp',
+    ],
     location: 'Godar Bazar, Padma Riverbank, Rajbari Sadar',
     googleMapsUrl: 'https://maps.google.com/?q=Godar+Bazar+Padma+River+Rajbari',
     about: {
@@ -404,8 +416,10 @@ export const dhakaPlacesPart3: TouristPlace[] = [
     category: 'Lakes & Wetlands',
     categoryId: 'lakes-wetlands',
     shortDescription: 'Massive medieval freshwater reservoir excavated by King Kalyan Singh, surrounded by ancient shady trees.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/kalyan-dighi/cover.webp',
+    galleryImages: [
+      '/images/destinations/kalyan-dighi/cover.webp',
+    ],
     location: 'Islampur Union, Baliakandi Upazila, Rajbari',
     googleMapsUrl: 'https://maps.google.com/?q=Kalyan+Dighi+Baliakandi+Rajbari',
     about: {
@@ -449,8 +463,10 @@ export const dhakaPlacesPart3: TouristPlace[] = [
     category: 'Historical Places',
     categoryId: 'historical-places',
     shortDescription: 'Romantic moss-covered ruins of a 19th-century zamindar estate featuring ancient brick archways and temple ruins.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/nawapara-palace-ruins/cover.webp',
+    galleryImages: [
+      '/images/destinations/nawapara-palace-ruins/cover.webp',
+    ],
     location: 'Nawapara Village, Baliakandi Upazila, Rajbari',
     googleMapsUrl: 'https://maps.google.com/?q=Nawapara+Palace+Baliakandi+Rajbari',
     about: {
@@ -547,8 +563,11 @@ export const dhakaPlacesPart3: TouristPlace[] = [
     category: 'Historical Places',
     categoryId: 'historical-places',
     shortDescription: 'Centuries-old aristocratic zamindar estate comprising multiple classical brick mansions and ancient ponds in Ulpur village.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/ulpur-zamindar-bari/cover.webp',
+    galleryImages: [
+      '/images/destinations/ulpur-zamindar-bari/cover.webp',
+      '/images/destinations/ulpur-zamindar-bari/gallery-1.webp',
+    ],
     location: 'Ulpur Village, Gopalganj Sadar (approx. 10 km north of Gopalganj town)',
     googleMapsUrl: 'https://maps.google.com/?q=Ulpur+Zamindar+Bari+Gopalganj',
     about: {
@@ -592,8 +611,12 @@ export const dhakaPlacesPart3: TouristPlace[] = [
     category: 'Rivers & Waterfalls',
     categoryId: 'rivers-waterfalls',
     shortDescription: 'Scenic riverfront promenade along the storied Madhumati River, celebrating rural poetry, sunsets, and boat rides.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/madhumati-river-ghat/cover.webp',
+    galleryImages: [
+      '/images/destinations/madhumati-river-ghat/cover.webp',
+      '/images/destinations/madhumati-river-ghat/gallery-1.webp',
+      '/images/destinations/madhumati-river-ghat/gallery-2.webp',
+    ],
     location: 'Madhumati Riverside Promenade & Ghat, Gopalganj Sadar',
     googleMapsUrl: 'https://maps.google.com/?q=Madhumati+River+Gopalganj+Bridge',
     about: {
@@ -638,8 +661,10 @@ export const dhakaPlacesPart3: TouristPlace[] = [
     category: 'Lakes & Wetlands',
     categoryId: 'lakes-wetlands',
     shortDescription: 'Vast freshwater wetland ecosystem famed for blooming red water lilies (Shapla), lotus ponds, and migratory waterbirds.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/barnal-beel/cover.webp',
+    galleryImages: [
+      '/images/destinations/barnal-beel/cover.webp',
+    ],
     location: 'Barnal & Patgati wetlands, Tungipara Upazila, Gopalganj',
     googleMapsUrl: 'https://maps.google.com/?q=Barnal+Beel+Tungipara+Gopalganj',
     about: {

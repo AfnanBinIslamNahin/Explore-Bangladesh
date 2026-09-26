@@ -1,5 +1,4 @@
 import { TouristPlace } from '../types';
-import { PHOTO_COMING_SOON } from './placeholder';
 
 export const dhakaPlacesPart2: TouristPlace[] = [
   // ==================== NARSINGDI DISTRICT ====================
@@ -117,8 +116,12 @@ export const dhakaPlacesPart2: TouristPlace[] = [
     category: 'Religious Places',
     categoryId: 'religious-places',
     shortDescription: '18th-century three-domed Mughal mosque built by Dewan Sharif Khan, featuring ornate terracotta battlements and arches.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/girda-jami-mosque/cover.webp',
+    galleryImages: [
+      '/images/destinations/girda-jami-mosque/cover.webp',
+      '/images/destinations/girda-jami-mosque/gallery-1.webp',
+      '/images/destinations/girda-jami-mosque/gallery-2.webp',
+    ],
     location: 'Parulia Village, Shibpur Upazila, Narsingdi',
     googleMapsUrl: 'https://maps.google.com/?q=Parulia+Shahi+Mosque+Shibpur+Narsingdi',
     about: {
@@ -164,8 +167,11 @@ export const dhakaPlacesPart2: TouristPlace[] = [
     category: 'Rivers & Waterfalls',
     categoryId: 'rivers-waterfalls',
     shortDescription: 'Picturesque wide riverfront promenades, scenic boat rides, and riverbank sunsets along the mighty Meghna.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/meghna-river-banks-narsingdi/cover.webp',
+    galleryImages: [
+      '/images/destinations/meghna-river-banks-narsingdi/cover.webp',
+      '/images/destinations/meghna-river-banks-narsingdi/gallery-1.webp',
+    ],
     location: 'Meghna Riverside Promenade & Launch Ghat, Narsingdi Sadar',
     googleMapsUrl: 'https://maps.google.com/?q=Meghna+River+Narsingdi+Ghat',
     about: {
@@ -366,8 +372,12 @@ export const dhakaPlacesPart2: TouristPlace[] = [
     category: 'Historical Places',
     categoryId: 'historical-places',
     shortDescription: 'Sprawling Mughal-Panni clan aristocratic manor and historic educational estate beside the Putir Khali canal.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/karatia-zamindar-palace/cover.webp',
+    galleryImages: [
+      '/images/destinations/karatia-zamindar-palace/cover.webp',
+      '/images/destinations/karatia-zamindar-palace/gallery-1.webp',
+      '/images/destinations/karatia-zamindar-palace/gallery-2.webp',
+    ],
     location: 'Karatia, Tangail Sadar (approx. 6 km east of Tangail town)',
     googleMapsUrl: 'https://maps.google.com/?q=Karatia+Zamindar+Palace+Tangail',
     about: {
@@ -516,8 +526,12 @@ export const dhakaPlacesPart2: TouristPlace[] = [
     category: 'Rivers & Waterfalls',
     categoryId: 'rivers-waterfalls',
     shortDescription: 'Peaceful riverbank promenade, Beutha Bridge sunset spot, and country boat rides along the gentle Dhaleshwari River.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/dhaleshwari-riverfront/cover.webp',
+    galleryImages: [
+      '/images/destinations/dhaleshwari-riverfront/cover.webp',
+      '/images/destinations/dhaleshwari-riverfront/gallery-1.webp',
+      '/images/destinations/dhaleshwari-riverfront/gallery-2.webp',
+    ],
     location: 'Beutha Ghat & Riverside, Manikganj Sadar',
     googleMapsUrl: 'https://maps.google.com/?q=Dhaleshwari+River+Beutha+Manikganj',
     about: {
@@ -716,8 +730,10 @@ export const dhakaPlacesPart2: TouristPlace[] = [
     category: 'Historical Places',
     categoryId: 'historical-places',
     shortDescription: 'Memorial complex dedicated to the venerable 10th-century Buddhist philosopher, scholar, and reformer born in ancient Bikrampur.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/atish-dipankar-memorial/cover.webp',
+    galleryImages: [
+      '/images/destinations/atish-dipankar-memorial/cover.webp',
+    ],
     location: 'Bajrayogini Village, Tongibari Upazila, Munshiganj',
     googleMapsUrl: 'https://maps.google.com/?q=Atish+Dipankar+Memorial+Bajrayogini+Munshiganj',
     about: {

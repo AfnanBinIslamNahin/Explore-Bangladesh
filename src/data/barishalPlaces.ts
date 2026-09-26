@@ -1,5 +1,4 @@
 import { TouristPlace } from '../types';
-import { PHOTO_COMING_SOON } from './placeholder';
 
 export const barishalPlaces: TouristPlace[] = [
   // ==================== BARISHAL DISTRICT ====================
@@ -343,8 +342,10 @@ export const barishalPlaces: TouristPlace[] = [
     category: 'Sea Beaches',
     categoryId: 'sea-beaches',
     shortDescription: 'A tranquil, virgin sea beach and coastal island in southern Bhola where dense tamarisk (Jhau) forests meet silvery Bay of Bengal sands.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/tarua-beach/cover.webp',
+    galleryImages: [
+      '/images/destinations/tarua-beach/cover.webp',
+    ],
     location: 'Tarua Island, Char Fasson Upazila, southern Bhola',
     googleMapsUrl: 'https://maps.google.com/?q=Tarua+Beach+Char+Fasson+Bhola+Bangladesh',
     about: {
@@ -479,8 +480,11 @@ export const barishalPlaces: TouristPlace[] = [
     category: 'Forests & Wildlife',
     categoryId: 'forests-wildlife',
     shortDescription: 'The eastern extension of the Sundarbans mangrove forest, reachable by engine boat from Kuakata, harboring wild birds, deer, and coastal fauna.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/fatrar-chor/cover.webp',
+    galleryImages: [
+      '/images/destinations/fatrar-chor/cover.webp',
+      '/images/destinations/fatrar-chor/gallery-1.webp',
+    ],
     location: 'West of Kuakata Beach, across the Andharmanik River estuary, Kalapara, Patuakhali',
     googleMapsUrl: 'https://maps.google.com/?q=Fatra+Forest+Kuakata+Bangladesh',
     about: {
@@ -938,8 +942,10 @@ export const barishalPlaces: TouristPlace[] = [
     category: 'Historical Places',
     categoryId: 'historical-places',
     shortDescription: 'A 17th-century Mughal mud-and-brick fortress built in 1639 CE by Mughal Subahdar Shah Shuja to defend southern Bengal against Magh and Portuguese pirates.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/sujabad-fort/cover.webp',
+    galleryImages: [
+      '/images/destinations/sujabad-fort/cover.webp',
+    ],
     location: 'Sujabad village, Nalchity Upazila, along the Sugandha River, Jhalokati',
     googleMapsUrl: 'https://maps.google.com/?q=Sujabad+Fort+Nalchity+Jhalokati+Bangladesh',
     about: {
@@ -1026,8 +1032,12 @@ export const barishalPlaces: TouristPlace[] = [
     category: 'Sea Beaches',
     categoryId: 'sea-beaches',
     shortDescription: 'A four-kilometer unspoiled coastal beach at the confluence of the Payra River and Bay of Bengal, famous for panoramic sunset views and red crab colonies.',
-    coverImage: PHOTO_COMING_SOON,
-    galleryImages: [PHOTO_COMING_SOON],
+    coverImage: '/images/destinations/shubhosondha-sea-beach/cover.webp',
+    galleryImages: [
+      '/images/destinations/shubhosondha-sea-beach/cover.webp',
+      '/images/destinations/shubhosondha-sea-beach/gallery-1.webp',
+      '/images/destinations/shubhosondha-sea-beach/gallery-2.webp',
+    ],
     location: 'Nishanbaria, Taltali Upazila, southern Barguna',
     googleMapsUrl: 'https://maps.google.com/?q=Shubhosondha+Sea+Beach+Taltali+Barguna+Bangladesh',
     about: {

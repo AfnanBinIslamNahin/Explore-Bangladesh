@@ -1,0 +1,472 @@
+[
+  {
+    "destinationId": "turag-river-banks",
+    "file": "cover.webp",
+    "path": "/images/destinations/turag-river-banks/cover.webp",
+    "title": "Turag River in 2022.06.jpg",
+    "artist": "CAPTAIN RAJU",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Turag_River_in_2022.06.jpg?width=1280"
+  },
+  {
+    "destinationId": "turag-river-banks",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/turag-river-banks/gallery-1.webp",
+    "title": "Turag River in 2022.09.jpg",
+    "artist": "CAPTAIN RAJU",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Turag_River_in_2022.09.jpg?width=1280"
+  },
+  {
+    "destinationId": "turag-river-banks",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/turag-river-banks/gallery-2.webp",
+    "title": "Turag River in 2022.04.jpg",
+    "artist": "CAPTAIN RAJU",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Turag_River_in_2022.04.jpg?width=1280"
+  },
+  {
+    "destinationId": "girda-jami-mosque",
+    "file": "cover.webp",
+    "path": "/images/destinations/girda-jami-mosque/cover.webp",
+    "title": "পারুলিয়া শাহী মসজিদ.jpg",
+    "artist": "Ashik Sarwar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6.jpg?width=1280"
+  },
+  {
+    "destinationId": "girda-jami-mosque",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/girda-jami-mosque/gallery-1.webp",
+    "title": "পারুলিয়া শাহী মসজিদ 02.jpg",
+    "artist": "KHAN MOHAMMAD SHIBLI HASAN",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6_02.jpg?width=1280"
+  },
+  {
+    "destinationId": "girda-jami-mosque",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/girda-jami-mosque/gallery-2.webp",
+    "title": "পারুলিয়া শাহী মসজিদ 03.jpg",
+    "artist": "KHAN MOHAMMAD SHIBLI HASAN",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE_%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A7%80_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6_03.jpg?width=1280"
+  },
+  {
+    "destinationId": "meghna-river-banks-narsingdi",
+    "file": "cover.webp",
+    "path": "/images/destinations/meghna-river-banks-narsingdi/cover.webp",
+    "title": "Meghna River with a boat, Narsingdi.jpg",
+    "artist": "Ifteebd10",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Meghna_River_with_a_boat%2C_Narsingdi.jpg?width=1280"
+  },
+  {
+    "destinationId": "meghna-river-banks-narsingdi",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/meghna-river-banks-narsingdi/gallery-1.webp",
+    "title": "Duttapara on the bank of Meghna river, Narsingdi.jpg",
+    "artist": "Ifteebd10",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Duttapara_on_the_bank_of_Meghna_river%2C_Narsingdi.jpg?width=1280"
+  },
+  {
+    "destinationId": "karatia-zamindar-palace",
+    "file": "cover.webp",
+    "path": "/images/destinations/karatia-zamindar-palace/cover.webp",
+    "title": "Korotia Jamidar Bari, Tangail 01.jpg",
+    "artist": "IqbalHossain",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Korotia_Jamidar_Bari%2C_Tangail_01.jpg?width=1280"
+  },
+  {
+    "destinationId": "karatia-zamindar-palace",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/karatia-zamindar-palace/gallery-1.webp",
+    "title": "Korotia Jamidar Bari, Tangail 04.jpg",
+    "artist": "IqbalHossain",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Korotia_Jamidar_Bari%2C_Tangail_04.jpg?width=1280"
+  },
+  {
+    "destinationId": "karatia-zamindar-palace",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/karatia-zamindar-palace/gallery-2.webp",
+    "title": "Korotia Jamidar Bari, Tangail 06.jpg",
+    "artist": "IqbalHossain",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Korotia_Jamidar_Bari%2C_Tangail_06.jpg?width=1280"
+  },
+  {
+    "destinationId": "dhaleshwari-riverfront",
+    "file": "cover.webp",
+    "path": "/images/destinations/dhaleshwari-riverfront/cover.webp",
+    "title": "Dhaleshwari River 03.jpg",
+    "artist": "Asivechowdhury",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhaleshwari_River_03.jpg?width=1280"
+  },
+  {
+    "destinationId": "dhaleshwari-riverfront",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/dhaleshwari-riverfront/gallery-1.webp",
+    "title": "Dhaleshwari River 02.jpg",
+    "artist": "Asivechowdhury",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhaleshwari_River_02.jpg?width=1280"
+  },
+  {
+    "destinationId": "dhaleshwari-riverfront",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/dhaleshwari-riverfront/gallery-2.webp",
+    "title": "Dhaleshwari River - Lauhati, Delduar, Tangail.jpg",
+    "artist": "Rasel1426.ju",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Dhaleshwari_River_-_Lauhati%2C_Delduar%2C_Tangail.jpg?width=1280"
+  },
+  {
+    "destinationId": "atish-dipankar-memorial",
+    "file": "cover.webp",
+    "path": "/images/destinations/atish-dipankar-memorial/cover.webp",
+    "title": "Atisha.jpg",
+    "artist": "Kadampa Monastery / Tibetan Art",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atisha.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Atisha.jpg?width=1280"
+  },
+  {
+    "destinationId": "shah-farid-dargah",
+    "file": "cover.webp",
+    "path": "/images/destinations/shah-farid-dargah/cover.webp",
+    "title": "Shah Farid Jame Masjid, Faridpur.jpg",
+    "artist": "Sakib8785",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Shah_Farid_Jame_Masjid%2C_Faridpur.jpg?width=1280"
+  },
+  {
+    "destinationId": "shah-farid-dargah",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/shah-farid-dargah/gallery-1.webp",
+    "title": "শাহ ফরিদ জামে মসজিদ, ফরিদপুর.jpg",
+    "artist": "ইমন",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%B6%E0%A6%BE%E0%A6%B9_%E0%A6%AB%E0%A6%B0%E0%A6%BF%E0%A6%A6_%E0%A6%9C%E0%A6%BE%E0%A6%AE%E0%A7%87_%E0%A6%AE%E0%A6%B8%E0%A6%9C%E0%A6%BF%E0%A6%A6%2C_%E0%A6%AB%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0.jpg?width=1280"
+  },
+  {
+    "destinationId": "goalando-ghat-riverfront",
+    "file": "cover.webp",
+    "path": "/images/destinations/goalando-ghat-riverfront/cover.webp",
+    "title": "Boats in Padma River Daulatdia Ghat Rajbari Bangladesh.JPG",
+    "artist": "Shahnoor Habib Munmun",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boats_in_Padma_River_Daulatdia_Ghat_Rajbari_Bangladesh.JPG?width=1280"
+  },
+  {
+    "destinationId": "goalando-ghat-riverfront",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/goalando-ghat-riverfront/gallery-1.webp",
+    "title": "Boats in Padma River Daulatdia Ghat Rajbari Bangladesh (2).JPG",
+    "artist": "Shahnoor Habib Munmun",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boats_in_Padma_River_Daulatdia_Ghat_Rajbari_Bangladesh_(2).JPG?width=1280"
+  },
+  {
+    "destinationId": "goalando-ghat-riverfront",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/goalando-ghat-riverfront/gallery-2.webp",
+    "title": "Boats in Padma River Daulatdia Ghat Rajbari Bangladesh (4).JPG",
+    "artist": "Shahnoor Habib Munmun",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Boats_in_Padma_River_Daulatdia_Ghat_Rajbari_Bangladesh_(4).JPG?width=1280"
+  },
+  {
+    "destinationId": "godar-bazar-riverside",
+    "file": "cover.webp",
+    "path": "/images/destinations/godar-bazar-riverside/cover.webp",
+    "title": "River Padma - Rajbari-Dhaka 2015-05-29 1389.JPG",
+    "artist": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/River_Padma_-_Rajbari-Dhaka_2015-05-29_1389.JPG?width=1280"
+  },
+  {
+    "destinationId": "godar-bazar-riverside",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/godar-bazar-riverside/gallery-1.webp",
+    "title": "Desi Boat - River Padma - Rajbari-Dhaka 2015-05-29 1404.JPG",
+    "artist": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Desi_Boat_-_River_Padma_-_Rajbari-Dhaka_2015-05-29_1404.JPG?width=1280"
+  },
+  {
+    "destinationId": "godar-bazar-riverside",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/godar-bazar-riverside/gallery-2.webp",
+    "title": "Padma river at Rajbari.jpg",
+    "artist": "Ribbasdemha",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Padma_river_at_Rajbari.jpg?width=1280"
+  },
+  {
+    "destinationId": "ulpur-zamindar-bari",
+    "file": "cover.webp",
+    "path": "/images/destinations/ulpur-zamindar-bari/cover.webp",
+    "title": "উলপুর জমিদার বাড়ি.jpg",
+    "artist": "মোঃ মোস্তাফিজুর রহমান কাইয়ুম",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%89%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%9C%E0%A6%AE%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF.jpg?width=1280"
+  },
+  {
+    "destinationId": "ulpur-zamindar-bari",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/ulpur-zamindar-bari/gallery-1.webp",
+    "title": "উলপুর জমিদার বাড়ি কালী মন্দির.jpg",
+    "artist": "মোঃ মোস্তাফিজুর রহমান কাইয়ুম",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%89%E0%A6%B2%E0%A6%AA%E0%A7%81%E0%A6%B0_%E0%A6%9C%E0%A6%AE%E0%A6%BF%E0%A6%A6%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF_%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A7%80_%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0.jpg?width=1280"
+  },
+  {
+    "destinationId": "madhumati-river-ghat",
+    "file": "cover.webp",
+    "path": "/images/destinations/madhumati-river-ghat/cover.webp",
+    "title": "Gorai-Madhumati River by George achik.jpg",
+    "artist": "George achik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Gorai-Madhumati_River_by_George_achik.jpg?width=1280"
+  },
+  {
+    "destinationId": "madhumati-river-ghat",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/madhumati-river-ghat/gallery-1.webp",
+    "title": "Sume peoples are maiding a bot in the river side. In Gorai River, Bangladesh.jpg",
+    "artist": "George achik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sume_peoples_are_maiding_a_bot_in_the_river_side._In_Gorai_River%2C_Bangladesh.jpg?width=1280"
+  },
+  {
+    "destinationId": "madhumati-river-ghat",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/madhumati-river-ghat/gallery-2.webp",
+    "title": "Chapail Bridge Opening Gopalganj.jpg",
+    "artist": "Press Information Department",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Sheikh_Fazilatunnesa_Mujib_Eye_Hospital_And_Training_Institute_Inauguration_And_Chapail_Bridge_Opening_Gopalganj_2016-04-30.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Sheikh_Fazilatunnesa_Mujib_Eye_Hospital_And_Training_Institute_Inauguration_And_Chapail_Bridge_Opening_Gopalganj_2016-04-30.jpg?width=1280"
+  },
+  {
+    "destinationId": "ariel-khan-river-view",
+    "file": "cover.webp",
+    "path": "/images/destinations/ariel-khan-river-view/cover.webp",
+    "title": "আড়িয়াল খাঁ নদীর তীরে মাছ ধরার দৃশ্য.jpg",
+    "artist": "ShazidSharif2001",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%86%E0%A6%A1%E0%A6%BC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B2_%E0%A6%96%E0%A6%BE%E0%A6%81_%E0%A6%A8%E0%A6%A6%E0%A7%80%E0%A6%B0_%E0%A6%A4%E0%A7%80%E0%A6%B0%E0%A7%87_%E0%A6%AE%E0%A6%BE%E0%A6%9B_%E0%A6%A7%E0%A6%B0%E0%A6%BE%E0%A6%B0_%E0%A6%A6%E0%A7%83%E0%A6%B6%E0%A7%8D%E0%A6%AF.jpg?width=1280"
+  },
+  {
+    "destinationId": "ariel-khan-river-view",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/ariel-khan-river-view/gallery-1.webp",
+    "title": "Beautiful Crepuscular rays near the bank of Arial Khan river of Madaripur.jpg",
+    "artist": "Toufiqul Islam Rifat",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Beautiful_Crepuscular_rays_near_the_bank_of_Arial_Khan_river_of_Madaripur.jpg?width=1280"
+  },
+  {
+    "destinationId": "ariel-khan-river-view",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/ariel-khan-river-view/gallery-2.webp",
+    "title": "Arial-Khan-River-Branch-Near-Kurukhai-Village-Katiadi.jpg",
+    "artist": "JahidShah",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Arial-Khan-River-Branch-Near-Kurukhai-Village-Katiadi.jpg?width=1280"
+  },
+  {
+    "destinationId": "rudrakar-zamindar-bari",
+    "file": "cover.webp",
+    "path": "/images/destinations/rudrakar-zamindar-bari/cover.webp",
+    "title": "Rudrakar Moth 10.jpg",
+    "artist": "Radman Siddiki",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudrakar_Moth_10.jpg?width=1280"
+  },
+  {
+    "destinationId": "rudrakar-zamindar-bari",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/rudrakar-zamindar-bari/gallery-1.webp",
+    "title": "Rudrakar Moth 11.jpg",
+    "artist": "Radman Siddiki",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudrakar_Moth_11.jpg?width=1280"
+  },
+  {
+    "destinationId": "rudrakar-zamindar-bari",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/rudrakar-zamindar-bari/gallery-2.webp",
+    "title": "Rudrakar Moth 14.jpg",
+    "artist": "Radman Siddiki",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Rudrakar_Moth_14.jpg?width=1280"
+  },
+  {
+    "destinationId": "padma-river-bank-naria",
+    "file": "cover.webp",
+    "path": "/images/destinations/padma-river-bank-naria/cover.webp",
+    "title": "Padma River right bank protection project Naria-Jajira Shariatpur.jpg",
+    "artist": "Press Information Department",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:2022-04-29_Water_Resources_Deputy_Minister_AKM_Enamul_Hoque_Shamim_inspects_Padma_River_right_bank_protection_project_Naria-Jajira_Shariatpur_(PID-0023363).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/2022-04-29_Water_Resources_Deputy_Minister_AKM_Enamul_Hoque_Shamim_inspects_Padma_River_right_bank_protection_project_Naria-Jajira_Shariatpur_(PID-0023363).jpg?width=1280"
+  },
+  {
+    "destinationId": "padma-river-bank-naria",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/padma-river-bank-naria/gallery-1.webp",
+    "title": "Inauguration Surashwar Launch Ghat Passenger Shelter Naria Upazila.jpg",
+    "artist": "Press Information Department",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Inauguration_Surashwar_Launch_Ghat_Passenger_Shelter_Naria_Upazila_Shariatpur_Bangladesh_2022-04-23_(PID-0023493).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Inauguration_Surashwar_Launch_Ghat_Passenger_Shelter_Naria_Upazila_Shariatpur_Bangladesh_2022-04-23_(PID-0023493).jpg?width=1280"
+  },
+  {
+    "destinationId": "padma-river-bank-naria",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/padma-river-bank-naria/gallery-2.webp",
+    "title": "Bangladeshi River erosion in Shariatpur 2.jpg",
+    "artist": "Shahnoor Habib Munmun",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangladeshi_River_erosion_in_Shariatpur_2.jpg?width=1280"
+  },
+  {
+    "destinationId": "sukanta-bhattacharya-heritage",
+    "file": "cover.webp",
+    "path": "/images/destinations/sukanta-bhattacharya-heritage/cover.webp",
+    "title": "Upendra Kishore Ray real.jpg",
+    "artist": "Historical archive",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Upendra_Kishore_Ray_real.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Upendra_Kishore_Ray_real.jpg?width=1280"
+  },
+  {
+    "destinationId": "sukanta-bhattacharya-heritage",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/sukanta-bhattacharya-heritage/gallery-1.webp",
+    "title": "Upendrakishore Ray Chauduri, His wife and six childrens.jpg",
+    "artist": "Historical archive",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Upendrakishore_Ray_Chauduri,_His_wife_and_six_childrens.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Upendrakishore_Ray_Chauduri%2C_His_wife_and_six_childrens.jpg?width=1280"
+  },
+  {
+    "destinationId": "sukanta-bhattacharya-heritage",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/sukanta-bhattacharya-heritage/gallery-2.webp",
+    "title": "Suakanta Bhattacharya.jpg",
+    "artist": "Historical archive",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Suakanta_Bhattacharya.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Suakanta_Bhattacharya.jpg?width=1280"
+  },
+  {
+    "destinationId": "sukanta-bhattacharya-heritage",
+    "file": "gallery-3.webp",
+    "path": "/images/destinations/sukanta-bhattacharya-heritage/gallery-3.webp",
+    "title": "Statue of Kishore Kabi Sukanta Bhattacharya.jpg",
+    "artist": "Sumasa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue_of_'Kishore_Kabi'_Sukanta_Bhattacharya.jpg?width=1280"
+  },
+  {
+    "destinationId": "tarua-beach",
+    "file": "cover.webp",
+    "path": "/images/destinations/tarua-beach/cover.webp",
+    "title": "Taruaseabeachare by abdul mannan.jpg",
+    "artist": "ABDULLAH MANNAN",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Taruaseabeachare_by_abdul_mannan.jpg?width=1280"
+  },
+  {
+    "destinationId": "fatrar-chor",
+    "file": "cover.webp",
+    "path": "/images/destinations/fatrar-chor/cover.webp",
+    "title": "সুনদরবন(ফাতরার চর).jpg",
+    "artist": "Saiful121157",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A6%A6%E0%A6%B0%E0%A6%AC%E0%A6%A8(%E0%A6%AB%E0%A6%BE%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B0_%E0%A6%9A%E0%A6%B0).jpg?width=1280"
+  },
+  {
+    "destinationId": "fatrar-chor",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/fatrar-chor/gallery-1.webp",
+    "title": "সী বোটে ফাতরার চর.jpg",
+    "artist": "Saiful121157",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A7%8B%E0%A6%9F%E0%A7%87_%E0%A6%AB%E0%A6%BE%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B0_%E0%A6%9A%E0%A6%B0.jpg?width=1280"
+  },
+  {
+    "destinationId": "shubhosondha-sea-beach",
+    "file": "cover.webp",
+    "path": "/images/destinations/shubhosondha-sea-beach/cover.webp",
+    "title": "Barguna Coastal area, Bangladesh.jpg",
+    "artist": "S.M. Rafiqul Islam",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Barguna_Coastal_area%2C_Bangladesh.jpg?width=1280"
+  },
+  {
+    "destinationId": "shubhosondha-sea-beach",
+    "file": "gallery-1.webp",
+    "path": "/images/destinations/shubhosondha-sea-beach/gallery-1.webp",
+    "title": "Front view of Tengragiri Wildlife Sanctuary.jpg",
+    "artist": "Md. Easin Arafat",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Front_view_of_Tengragiri_Wildlife_Sanctuary.jpg?width=1280"
+  },
+  {
+    "destinationId": "shubhosondha-sea-beach",
+    "file": "gallery-2.webp",
+    "path": "/images/destinations/shubhosondha-sea-beach/gallery-2.webp",
+    "title": "Cyclone affected coastal forest in Barguna, Bangladesh.jpg",
+    "artist": "S.M. Rafiqul Islam",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cyclone_affected_coastal_forest_in_Barguna%2C_Bangladesh.jpg?width=1280"
+  }
+]

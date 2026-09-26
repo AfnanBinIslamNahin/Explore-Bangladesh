@@ -21,6 +21,7 @@ import {
 } from 'lucide-react';
 import { getPlaceById, touristPlaces, getDistrictById } from '../data';
 import { handleImageFallback } from '../data/placeholder';
+import { getCreditsForDestination, getCreditForImage } from '../data/imageCredits';
 import { DestinationCard } from '../components/DestinationCard';
 
 export const PlaceDetailsPage: React.FC = () => {
@@ -445,6 +446,11 @@ export const PlaceDetailsPage: React.FC = () => {
             <div className="mt-3 text-center text-white">
               <p className="font-semibold text-sm">{place.name}</p>
               <p className="text-xs text-emerald-300">{place.district}, {place.division} Division</p>
+              {activeImageModal && getCreditForImage(activeImageModal) && (
+                <p className="text-[11px] text-slate-300 mt-1">
+                  Photo: {getCreditForImage(activeImageModal)?.artist || 'Contributor'} ({getCreditForImage(activeImageModal)?.license})
+                </p>
+              )}
             </div>
           </div>
         </div>
